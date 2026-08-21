@@ -30,14 +30,14 @@ Make sure Python 3.x is installed on your system.
 ### Clone the Repository
 1. git clone https://github.com/saudaminighosh/Smart-Bus-Tram-Stop-Finder-application-using-Python.git
 
-Navigate to the project directory:
-2. cd Smart-Bus-Tram-Stop-Finder-application-using-Python
+2. Navigate to the project directory:
+   cd Smart-Bus-Tram-Stop-Finder-application-using-Python
 
 
 ### Install Dependencies
 
-Install the required Python packages according to the imports used in main.py.
-3. pip install -r requirements.txt
+3. Install the required Python packages according to the imports used in main.py.
+   pip install -r requirements.txt
 
 
 ### Run the Application
